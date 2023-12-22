@@ -1,0 +1,1 @@
+USB2514_USB_HUB projesinde amaç USB çoklayıcı tasarımı yapmaktır. Fakat bir laptop tek usb çıkışından 4 adet usb enerjisi çekildiğinde anakartı hasar görebilmektedir. Bunun için çözümümüz harici olarak beslenebilir bir USB çoklayıcı tasarımı yapmak oldu. Enerjisi farklı bir kaynaktan sağlanıyor ancak veriler usb üzerinden aktarılıyor. 
